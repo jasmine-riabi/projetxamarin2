@@ -1,6 +1,22 @@
 ﻿<Properties StartupConfiguration="{3932BB60-103D-4DA6-997C-C4D3D545A996}|Default">
-  <MonoDevelop.Ide.ItemProperties.projet.iOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.projet.iOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.811D6803-1E36-4287-AA1F-C193FE62FD2F" />
   <MonoDevelop.Ide.ItemProperties.projet FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="projet" expanded="True">
+            <Node name="projet.iOS" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.projet.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_nougat_7_0_-_api_24" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
