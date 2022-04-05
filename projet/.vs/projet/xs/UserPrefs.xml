@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{3932BB60-103D-4DA6-997C-C4D3D545A996}|Default">
+  <MonoDevelop.Ide.ItemProperties.projet.iOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.projet FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.projet.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_nougat_7_0_-_api_24" />
+  <MultiItemStartupConfigurations />
+</Properties>
