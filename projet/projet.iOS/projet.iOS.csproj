@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{3932BB60-103D-4DA6-997C-C4D3D545A996}</ProjectGuid>
+    <ProjectGuid>{580C8265-DBCB-486A-B8CA-0E81234D3641}</ProjectGuid>
     <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <TemplateGuid>{6143fdea-f3c2-4a09-aafa-6e230626515e}</TemplateGuid>
     <OutputType>Exe</OutputType>
@@ -129,7 +129,7 @@
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\projet\projet.csproj">
-      <Project>{27B2A362-A733-415D-BCBB-39F58BF084FC}</Project>
+      <Project>{3DC2BDAF-879D-4EF4-8039-C4C04C2C2BB8}</Project>
       <Name>projet</Name>
     </ProjectReference>
   </ItemGroup>
