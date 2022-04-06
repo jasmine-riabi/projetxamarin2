@@ -14,5 +14,10 @@ namespace projet
         {
             InitializeComponent();
         }
+        async void onClickMenu(object sender, EventArgs e)
+        {
+            // Navigate to the NoteEntryPage, without passing any data.
+            await Application.Current.MainPage.Navigation.PushModalAsync(new CountryList());
+        }
     }
 }
